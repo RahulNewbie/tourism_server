@@ -1,0 +1,6 @@
+id,start_date,end_date,destination,price,desc,type,risk_factor
+1,08/02/2020,11/02/2020,London,200 EUR,capital of UK,Cultural,1
+2,02/02/2020,05/02/2020,Barcelona,200 EUR,Beautiful city in Spain,Cultural,1
+3,01/03/2020,08/03/2020,Frankfurt,200 EUR,Financial capital of Europe,Cultural,1
+4,08/02/2020,11/02/2020,Madrid,200 EUR,capital of Spain,Cultural,1
+5,08/02/2020,11/02/2020,Amazon,1200 EUR,Adventure In Brazil,Adventure,7

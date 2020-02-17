@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "coord": {
+      "lon": 34.6037,
+      "lat": 58.3816
+    }
+  },
+  {
+    "id": 2,
+    "name": "Brasilia",
+    "country": "Brazil",
+    "coord": {
+      "lon": 37.666668,
+      "lat": 55.683334
+    }
+  },
+  {
+    "id": 3,
+    "name": "Havana",
+    "country": "Cuba",
+    "coord": {
+      "lon": 84.633331,
+      "lat": 28
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mexico City",
+    "country": "Mexico",
+    "coord": {
+      "lon": 76,
+      "lat": 29
+    }
+  },
+  {
+    "id": 5,
+    "name": "Santiago",
+    "country": "Chile",
+    "coord": {
+      "lon": 33.900002,
+      "lat": 44.599998
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sucre",
+    "country": "Bolivia",
+    "coord": {
+      "lon": 85.416664,
+      "lat": 28
+    }
+  }
+]
